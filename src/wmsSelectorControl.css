@@ -1,0 +1,47 @@
+.wms-selector {
+  top: 75px;
+  left: .5em;
+}
+.ol-touch .wms-selector {
+  top: 90px;
+}
+
+.wms-selector.ol-control img {
+  display: block;
+  margin: 1px;
+  padding: 0;
+  color: white;
+  font-size: 1.14em;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  height: 1.375em;
+  width: 1.375em;
+  line-height: .4em;
+  background-color: rgba(0,60,136,0.5);
+  border: none;
+  border-radius: 2px;
+}
+
+
+#unique-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+#unique-table th:nth-child(1), #unique-table td:nth-child(1) {
+  width: 30%;
+}
+
+#unique-table th:nth-child(2), #unique-table td:nth-child(2) {
+  width: 30%;
+}
+
+#unique-table th:nth-child(3), #unique-table td:nth-child(3) {
+  width: 40%;
+}
+
+#unique-table tr.selected {
+    background-color: brown;
+    color: #FFF;
+}
