@@ -1,0 +1,846 @@
+[
+ {
+  "name": "GRAND_LYON",
+  "url": "https://download.data.grandlyon.com/wms/grandlyon"
+ },
+ {
+  "name": "GRAND_LYON",
+  "url": "https://download.data.grandlyon.com/wms/rdata"
+ },
+ {
+  "name": "METROPOLE_RENNES",
+  "url": "http://geobretagne.fr/geoserver/rennesmetropole/ows"
+ },
+ {
+  "name": "GRAND_POITIERS",
+  "url": "https://sig.grandpoitiers.fr/arcgis/services/Geoportail/WMS_Preview/MapServer/WmsServer"
+ },
+ {
+  "name": "PAYS_BREST_CADASTRE",
+  "url": "http://geo.brest.fr/Cadastre/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_DEPLACEMENT",
+  "url": "http://geo.brest.fr/Deplacement/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_ECONOMIE",
+  "url": "http://geo.brest.fr/Economie/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_EQUIPEMENTS_GRAND_PUBLIC",
+  "url": "http://geo.brest.fr/ServicesEquipements_GrandPublic/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_EQUIPEMENTS_METIER",
+  "url": "http://geo.brest.fr/ServicesEquipements/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_ESPACE_PUBLIC",
+  "url": "http://geo.brest.fr/EspacePublic/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PATRIMOINE_NATUREL",
+  "url": "http://geo.brest.fr/PatrimoineNaturel/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PATRIMOINE_TOURISME",
+  "url": "http://geo.brest.fr/PatrimoineTourisme/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_1919",
+  "url": "http://geo.brest.fr/PhotoAerienne_1919/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_1929",
+  "url": "http://geo.brest.fr/PhotoAerienne_1929/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_2009_2010",
+  "url": "http://geo.brest.fr/PhotoAerienne_2009_2010/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_2009_2010_TUILE",
+  "url": "http://georest.brest.fr/PhotoAerien​ne_2009_2010/MapServer/WMTS"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_2012",
+  "url": "http://geo.brest.fr/PhotoAerienne2012/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_PHOTO_AERIENNE_2012_TUILE",
+  "url": "http://georest.brest.fr/PhotoAerienne2012/MapServer/WMTS"
+ },
+ {
+  "name": "PAYS_BREST_PLAN_VILLE",
+  "url": "http://geo.brest.fr/PlanVille/MapServer/WMSServer"
+ },
+ {
+  "name": "PAYS_BREST_URBANISME",
+  "url": "http://geo.brest.fr/Urbanisme/MapServer/WMSServer"
+ },
+ {
+  "name": "PNR_AVESNOIS_RESSOURCE_EN_EAU",
+  "url": "http://ws.carmencarto.fr/WMS/56/SIGAvesnois_Eau"
+ },
+ {
+  "name": "PNR_AVESNOIS_POLLUTION",
+  "url": "http://ws.carmencarto.fr/WMS/56/SigAvesnois_Pollution"
+ },
+ {
+  "name": "PNR_AVESNOIS_RESSOURCES_MINERALES",
+  "url": "http://ws.carmencarto.fr/WMS/56/SIGAvesnois_Ress_Min"
+ },
+ {
+  "name": "PNR_AVESNOIS_GEOLOGIE",
+  "url": "http://ws.carmencarto.fr/WMS/56/SIGAvesnois_Geologie"
+ },
+ {
+  "name": "PNR_AVESNOIS_PATRIMOINE_NATUREL",
+  "url": "http://ws.carmencarto.fr/WMS/56/SIGAvesnois_Patrim"
+ },
+ {
+  "name": "PNR_AVESNOIS_RISQUES_NATURELS",
+  "url": "http://ws.carmencarto.fr/WMS/56/SigAvesnois_risques_naturels"
+ },
+ {
+  "name": "DEPARTEMENT_17_CHARENTE_MARITIME",
+  "url": "https://geo.geoplateforme17.fr/CG17/wms"
+ },
+ {
+  "name": "DEPARTEMENT_41_LOIRE_ET_CHER_URBANISME",
+  "url": "http://wms.pilote41.fr/urbanismewms"
+ },
+ {
+  "name": "DEPARTEMENT_44_LOIRE_ATLANTIQUE_VUE_DU_CIEL",
+  "url": "http://services.vuduciel.loire-atlantique.fr/geoserver/ows"
+ },
+ {
+  "name": "DEPARTEMENT_80_SOMME",
+  "url": "http://geo.somme.fr/arcgis/services/SIG_CG_SOMME/MapServer/WMSServer"
+ },
+ {
+  "name": "DEPARTEMENT_85_VENDEE",
+  "url": "http://carto.geovendee.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "DEPARTEMENT_93_SEINE_SAINT_DENIS",
+  "url": "http://geoportail93.fr/SERV/DATA/"
+ },
+ {
+  "name": "DEPARTEMENT_94_VAL_DE_MARNE",
+  "url": "http://geo.valdemarne.fr/viewer/"
+ },
+ {
+  "name": "DEPARTEMENT_MAYOTTE",
+  "url": "http://carto.geomayotte.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "DEPARTEMENT_GEOREP_FOND_SIMPLIFIE",
+  "url": "http://carto.gouv.nc/arcgis/services/fond_simplifie/MapServer/WMSServer"
+ },
+ {
+  "name": "DEPARTEMENT_GEOREP_PARCELLAIRE_INFORMATISE",
+  "url": "http://carto.gouv.nc/arcgis/services/plan_parcellaire_informatise/MapServer/WMSServer"
+ },
+ {
+  "name": "DEPARTEMENT_GEOREP_TOPONYMES",
+  "url": "http://carto.gouv.nc/arcgis/services/toponymes/MapServer/WMSServer"
+ },
+ {
+  "name": "REGION_CRAIG_ORTHO_TUILE",
+  "url": "http://tiles.craig.fr/ortho/service"
+ },
+ {
+  "name": "REGION_CRAIG_ORTHO",
+  "url": "http://wms.craig.fr/ortho"
+ },
+ {
+  "name": "REGION_CRAIG_MNT",
+  "url": "http://wms.craig.fr/mnt"
+ },
+ {
+  "name": "REGION_CRAIG_IGN_TUILE",
+  "url": "http://tiles.craig.fr/ign/service"
+ },
+ {
+  "name": "REGION_CRAIG_IGN",
+  "url": "http://wms.craig.fr/ign"
+ },
+ {
+  "name": "REGION_CRAIG_BDORTHO",
+  "url": "http://wms.craig.fr/bdortho"
+ },
+ {
+  "name": "REGION_CRAIG_RGE",
+  "url": "http://wms.craig.fr/rge"
+ },
+ {
+  "name": "REGION_CRAIG_PUBLIC",
+  "url": "http://ids.craig.fr/wxs/public/wms"
+ },
+ {
+  "name": "REGION_CRAIG_MEMBRES",
+  "url": "http://ids.craig.fr/wxs/membres/wms"
+ },
+ {
+  "name": "REGION_MYPIGEO",
+  "url": "http://carto.mipygeo.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_GEONORMANDIE",
+  "url": "http://carto.geonormandie.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_GEOBOURGOGNE",
+  "url": "http://datacarto.geobourgogne.fr/WMS/wms.php"
+ },
+ {
+  "name": "REGION_GEOBOURGOGNE_TUILE",
+  "url": "http://carto.geobourgogne.fr/wmts"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE",
+  "url": "http://geobretagne.fr/geoserver/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_OSM",
+  "url": "http://geobretagne.fr/geoserver/osm/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_REF",
+  "url": "http://geobretagne.fr/geoserver/ref/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_DREAL",
+  "url": "http://geobretagne.fr/geoserver/dreal_b/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_CADASTRE",
+  "url": "http://geobretagne.fr/geoserver/cadastre/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_PHOTO",
+  "url": "http://geobretagne.fr/geoserver/photo/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_DRAAF",
+  "url": "http://geobretagne.fr/geoserver/draaf/wms"
+ },
+ {
+  "name": "REGION_GIP_BRETAGNE_ENVIRONNEMENT",
+  "url": "http://geobretagne.fr/geoserver/bretagneenvironnement/wms"
+ },
+ {
+  "name": "REGION_GEOBRETAGNE_SIGN_ADRESSE",
+  "url": "http://ows.region-bretagne.fr/geoserver/edit_rb/wms"
+ },
+ {
+  "name": "REGION_GEOLIMOUSIN",
+  "url": "http://carto.geolimousin.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_PIGMA_ALL",
+  "url": "https://www.pigma.org/geoserver/wms"
+ },
+ {
+  "name": "REGION_PIGMA_CG47",
+  "url": "https://www.pigma.org/geoserver/cg47/wms"
+ },
+ {
+  "name": "REGION_PIGMA_DRAC",
+  "url": "https://www.pigma.org/geoserver/drac/wms"
+ },
+ {
+  "name": "REGION_PIGMA_ERDF",
+  "url": "https://www.pigma.org/geoserver/erdf/wms"
+ },
+ {
+  "name": "REGION_PIGMA_RECTORAT",
+  "url": "https://www.pigma.org/geoserver/rect/wms"
+ },
+ {
+  "name": "REGION_PIGMA_RFF",
+  "url": "https://www.pigma.org/geoserver/rff/wms"
+ },
+ {
+  "name": "REGION_GEOPAL",
+  "url": "http://carto.geopal.org/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_GEO_CENTRE",
+  "url": "http://carto.geo-centre.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_PEGASE",
+  "url": " http://datacarto.pegase-poitou-charentes.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_SIGORE",
+  "url": "http://wms.observatoire-environnement.org/wms_sigore"
+ },
+ {
+  "name": "REGION_GEOPICARDIE",
+  "url": "http://www.geopicardie.fr/geoserver/geopicardie/ows"
+ },
+ {
+  "name": "REGION_GEOPICARDIE_02_AISNE",
+  "url": "http://www.geopicardie.fr/geoserver/dept02/ows"
+ },
+ {
+  "name": "REGION_GEOPICARDIE_60_OISE",
+  "url": "http://www.geopicardie.fr/geoserver/dept60/ows"
+ },
+ {
+  "name": "REGION_GEOPICARDIE_DONNEES_REGIONALES",
+  "url": "http://www.geopicardie.fr/geoserver/reg22/ows"
+ },
+ {
+  "name": "REGION_SIGLR_POLITIQUE_DE_LA_VILLE",
+  "url": "http://wms.siglr.org/wmspolitiqueville"
+ },
+ {
+  "name": "REGION_SIGLR_OCS_1999",
+  "url": "http://wms.siglr.org/wmsocsol1999"
+ },
+ {
+  "name": "REGION_SIGLR_BD_SOL",
+  "url": "http://wms.siglr.org/wmsbdsol"
+ },
+ {
+  "name": "REGION_SIGLR_OCS_2006",
+  "url": "http://wms.siglr.org/wmsocsol2006"
+ },
+ {
+  "name": "REGION_SIGLR_ORTHO_2012",
+  "url": "http://wms.siglr.org/wmsortho2012"
+ },
+ {
+  "name": "REGION_PPIGE_NPDC",
+  "url": "http://www.ppige-npdc.fr/viewer/"
+ },
+ {
+  "name": "REGION_PPIGE_NPDC_ORTHO13",
+  "url": "http://www.ppige-npdc.fr/cgi-bin/mapservmap=/var/www/mapcache/map/ortho2013.map"
+ },
+ {
+  "name": "REGION_GEORHONEALPES",
+  "url": "http://carto.georhonealpes.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "REGION_CIGAL_DONNEES_67_BAS_RHIN",
+  "url": "https://www.cigalsace.org/geoserver/CD67/ows"
+ },
+ {
+  "name": "REGION_CIGAL_DONNEES_REGIONALES",
+  "url": "https://www.cigalsace.org/geoserver/CRA/ows"
+ },
+ {
+  "name": "REGION_CIGAL_IGN",
+  "url": "https://www.cigalsace.org/geoserver/IGN/ows"
+ },
+ {
+  "name": "REGION_CIGAL_REFERENTIELS",
+  "url": "https://www.cigalsace.org/geoserver/cigal/ows"
+ },
+ {
+  "name": "GEO_IDE",
+  "url": "http://ogc.geo-ide.developpement-durable.gouv.fr/cartes/mapserv"
+ },
+ {
+  "name": "REGION_DREAL_LR_DONNEES_GENERALES",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/19/dreal_lr_general"
+ },
+ {
+  "name": "REGION_DREAL_LR_CRUES_RHONE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/19/dreal_lr_crues_rhone"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_SARR",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_SARR"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_NANC",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_NANC"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_CARTE_GLOBALE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_globale_lorraine"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_METZ",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_METZ"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_DIE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_DIE"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_N2000_GRANDE_REGION",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_n2000_grande_region"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_LONG",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_LONG"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_VERD",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_VERD"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_SEDA",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_SEDA"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_EPIN",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_EPIN"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_PONT",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_PONT"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_DI_TRI_NEUF",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_DI_TRI_NEUF"
+ },
+ {
+  "name": "REGION_DREAL_LORRAINE_ZONES_HUMIDES",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/21/carte_zones_humides_lorraine"
+ },
+ {
+  "name": "REGION_DREAL_ALSACE_CARTE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/5/Carte_Alsace"
+ },
+ {
+  "name": "REGION_DREAL_ALSACE_SRCE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/5/Carte_Alsace_SRCE"
+ },
+ {
+  "name": "REGION_DREAL_ALSACE_DI_MULHOUSE_APPROUVE?",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/5/carte_DI_MULHOUSE_APPROUVE"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_CARTE_GENERALE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/carte_generale"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_RESSOURCES_GRANULATS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/ressources_granulats"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_MOS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/MOS_2009_HN"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_SCOT",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/SCoT_HN"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_EOLIEN",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/site_ind_prod_eolien"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_NATURE_ET_PAYSAGE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/natureetpaysage"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_TRI_DIEPPE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/TRI_Dieppe"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_INFRASTRUCTURES_TRANSPORTS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/infrastructures_transports"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_TRI_EVREUX",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/TRI_Evreux"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_TRI_LE_HAVRE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/TRI_Le_Havre"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_TRI_ROUEN",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/TRI_Rouen"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_DTA_ESTUAIRE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/DTA_3"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_SRCE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/SRCE_tvb"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_DTA",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/DTA"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_POLLUTION_SOL",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/pollution_sol_2"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_NATURE_BIODIVERSITE_INVENTAIRE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/nature_bio_inv"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_NATURE_BIODIVERSITE_GESTION",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/nature_bio_gest"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_RISQUES_TECHNO",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/risques_techno"
+ },
+ {
+  "name": "REGION_DREAL_HAUTE_NORMANDIE_RISQUES_TECHNO",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/17/risques_techno"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_NATURA_2000",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/Natura_2000"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_NATURE_PAYSAGE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/Nature_Paysage"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_RISQUE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/Risque"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_PROTECTIONS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/L93_Protections"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_EAU",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/EAU"
+ },
+ {
+  "name": "REGION_DREAL_BRETAGNE_INVENTAIRES",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/10/L93_Inventaires"
+ },
+ {
+  "name": "REGION_DREAL_PACA_ENVIRONNMENT_INDUSTRIE_RISQUES",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/25/environnement"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_REPERES_DE_CRUE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/reperes_crue"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_BASSIN_LOIRE_BRETAGNE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin1"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_SDAGE_2009",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_L214"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_EOLIEN",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eolien"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_SDPC",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_sdpc"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_RZP",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/rzp_bassin"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_DCE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_reseau_dce"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_BLOIS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/blois"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_ORLEANS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/orleans"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_TOURS",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/tours"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_CONNAISSANCE_BASSIN",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_connaissance"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_L214_CONSULTATION",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_L214_consultation2"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_EAU_BASSIN_TRI",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/eau_bassin_tri"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_DREAL",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/DREAL24"
+ },
+ {
+  "name": "REGION_DREAL_CENTRE_PHEC_CHER_NIEVRE",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/11/PHEC_CHER_NIEVRE"
+ },
+ {
+  "name": "REGION_AIR_BREIZH",
+  "url": "http://sig.airbreizh.asso.fr/geoserver/wms"
+ },
+ {
+  "name": "FRANCE_IGN_INSPIRE",
+  "url": "http://wxs.ign.fr/inspire/r/wmsversion=1.3.0"
+ },
+ {
+  "name": "FRANCE_GEOFONCIER",
+  "url": "https://api.geofoncier.fr/referentielsoge/ogc/wxs"
+ },
+ {
+  "name": "FRANCE_GEOLITORRAL",
+  "url": "http://geolittoral.application.developpement-durable.gouv.fr/wms2/metropole"
+ },
+ {
+  "name": "FRANCE_GEOLITORRAL_TUILE",
+  "url": "http://geolittoral.application.developpement-durable.gouv.fr/cache/service/wmts"
+ },
+ {
+  "name": "FRANCE_CADASTRE",
+  "url": "http://inspire.cadastre.gouv.fr/scpc/CODE_INSEE.wms"
+ },
+ {
+  "name": "FRANCE_GEOSIGNAL",
+  "url": "http://www.geosignal.org/cgi-bin/wmsmap"
+ },
+ {
+  "name": "FRANCE_GEST_EAU",
+  "url": "http://gesteau.oieau.fr/service"
+ },
+ {
+  "name": "FRANCE_SANDRE_OUVRAGES_LIES_A_L_EAU",
+  "url": "http://services.sandre.eaufrance.fr/geo/ouvrage"
+ },
+ {
+  "name": "FRANCE_SANDRE_STATIONS_DE_MESURE",
+  "url": "http://services.sandre.eaufrance.fr/geo/stations"
+ },
+ {
+  "name": "FRANCE_SANDRE_ZONAGE",
+  "url": "http://services.sandre.eaufrance.fr/geo/zonage"
+ },
+ {
+  "name": "FRANCE_IFREMER_EXPLOITATION_DE_LA_MER",
+  "url": "http://www.ifremer.fr/services/wms1"
+ },
+ {
+  "name": "FRANCE_IFREMER_OCEANOGRAPHIE_PHYSIQUE",
+  "url": "http://www.ifremer.fr/services/wms/oceanographie_physique"
+ },
+ {
+  "name": "FRANCE_IFREMER_BIOLOGIE",
+  "url": "http://www.ifremer.fr/services/wms/biologie"
+ },
+ {
+  "name": "FRANCE_IFREMER_GEOSCIENCES",
+  "url": "http://www.ifremer.fr/services/wms/geosciences"
+ },
+ {
+  "name": "FRANCE_IFREMER_SURVEILLANCE_LITTORALE",
+  "url": "http://www.ifremer.fr/services/wms/surveillance_littorale"
+ },
+ {
+  "name": "FRANCE_IFREMER_PHOTOS_ANCIENNES",
+  "url": "http://www.ifremer.fr/services/photos_anciennes"
+ },
+ {
+  "name": "FRANCE_IFREMER_GRANULATS_MARINS",
+  "url": "http://www.ifremer.fr/services/wms/granulats_marins"
+ },
+ {
+  "name": "FRANCE_IFREMER_NOUVELLE_CALEDONIE",
+  "url": "http://www.ifremer.fr/services/wms/nc"
+ },
+ {
+  "name": "FRANCE_IFREMER_OBSERVATOIRE_PELAGIS",
+  "url": "http://www.ifremer.fr/services/wms/observatoire_pelagis"
+ },
+ {
+  "name": "FRANCE_IFREMER_MIMEL",
+  "url": "http://www.ifremer.fr/services/wms_mimel"
+ },
+ {
+  "name": "FRANCE_IFREMER_OGIVE_AGIL",
+  "url": "http://www.ifremer.fr/services/wms/ogive_agil"
+ },
+ {
+  "name": "FRANCE_IFREMER_CHARM2",
+  "url": "http://www.ifremer.fr/services/wms_charm"
+ },
+ {
+  "name": "FRANCE_IFREMER_CHARM3",
+  "url": "http://www.ifremer.fr/services/wms_charm3"
+ },
+ {
+  "name": "FRANCE_IFREMER_EUROSHELL",
+  "url": "http://www.ifremer.fr/services/wms/euroshell"
+ },
+ {
+  "name": "FRANCE_BRGM_GEOLOGIE_HYDROGEOLOGIE_GRAVIMETRIE",
+  "url": "http://geoservices.brgm.fr/geologie"
+ },
+ {
+  "name": "FRANCE_BRGM_OBSERVATOIRE_DES_MATERIAUX_GRANULATS_MARINS",
+  "url": "http://geoservices.brgm.fr/odmgm"
+ },
+ {
+  "name": "FRANCE_BRGM_RISQUES_NATURELS_ET_INDUSTRIELS",
+  "url": "http://geoservices.brgm.fr/risques"
+ },
+ {
+  "name": "FRANCE_SHOM_INSPIRE",
+  "url": "http://services.data.shom.fr/INSPIRE/wms/r"
+ },
+ {
+  "name": "FRANCE_SHOM_INSPIRE_TUILE",
+  "url": "http://services.data.shom.fr/INSPIRE/wmts"
+ },
+ {
+  "name": "FRANCE_ATLASANTE",
+  "url": "http://carto.atlasante.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "FRANCE_CARTOMER",
+  "url": "http://cartographie.aires-marines.fr/wms"
+ },
+ {
+  "name": "FRANCE_CADASTRE_MINIER",
+  "url": "http://ws.carmen.developpement-durable.gouv.fr/WMS/209/CADASTRE_MINIER_DGALN"
+ },
+ {
+  "name": "FRANCE_ADES",
+  "url": "http://services.ades.eaufrance.fr/carto/wms"
+ },
+ {
+  "name": "FRANCE_ONF_FORETS",
+  "url": "http://ws.carmencarto.fr/WMS/105/ONF_Forets"
+ },
+ {
+  "name": "FRANCE_ONF_RESERVES_BIOLOGIQUES",
+  "url": "http://ws.carmencarto.fr/WMS/105/ONF_RB_Metro"
+ },
+ {
+  "name": "FRANCE_CLC",
+  "url": "http://CLC.developpement-durable.gouv.fr/geoserver/wms"
+ },
+ {
+  "name": "GEORISQUES",
+  "url": "http://georisques.gouv.fr/services"
+ },
+ {
+  "name": "GEOSUD",
+  "url": "http://ids.equipex-geosud.fr/constellation/WS/wmts/WMTSService=WMTS&version=1.0.0&Request=GetCapabilities"
+ },
+ {
+  "name": "FRANCE_GISSOL",
+  "url": "https://agroenvgeo.data.inra.fr/geoserver/gissol_rmqs/wms"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_METROPOLE",
+  "url": "http://ws.carmencarto.fr/WFS/119/fxx_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_REUNION",
+  "url": "http://ws.carmencarto.fr/WMS/119/reu_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_GUYANE",
+  "url": "http://ws.carmencarto.fr/WMS/119/guf_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_SAINT_PIERRE_ET_MIQUELON",
+  "url": "http://ws.carmencarto.fr/WMS/119/spm_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_GUADELOUPE",
+  "url": "http://ws.carmencarto.fr/WMS/119/glp_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_ZONAGES_MAYOTTE",
+  "url": "http://ws.carmencarto.fr/WMS/119/myt_inpn"
+ },
+ {
+  "name": "FRANCE_MNHN_REGIONS_BIOGEOGRAPHIQUES_METROPOLE",
+  "url": "http://ws.carmencarto.fr/WMS/119/fxx_ref"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_METROPOLE",
+  "url": "http://ws.carmencarto.fr/WMS/119/fxx_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_MARTINIQUE",
+  "url": "http://ws.carmencarto.fr/WMS/119/mtq_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_GUADELOUPE",
+  "url": "http://ws.carmencarto.fr/WMS/119/glp_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_SAINT_PIERRE_ET_MIQUELON",
+  "url": "http://ws.carmencarto.fr/WMS/119/spm_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_REUNION",
+  "url": "http://ws.carmencarto.fr/WMS/119/reu_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_MAYOTTE",
+  "url": "http://ws.carmencarto.fr/WMS/119/myt_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_SAINT_MARTIN",
+  "url": "http://ws.carmencarto.fr/WMS/119/maf_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_TAAF_ILES_SUBANTARCTIQUES",
+  "url": "http://ws.carmencarto.fr/WMS/119/taaf_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_TAAF_ILES_EPARSES",
+  "url": "http://ws.carmencarto.fr/WMS/119/epa_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_SAINT_BARTHELEMY",
+  "url": "http://ws.carmencarto.fr/WMS/119/blm_grille"
+ },
+ {
+  "name": "FRANCE_MNHN_GRILLE_SAINT_GUYANE",
+  "url": "http://ws.carmencarto.fr/WMS/119/guf_grille"
+ },
+ {
+  "name": "DIVERS_SIGLOIRE",
+  "url": "http://carto.sigloire.fr/cgi-bin/mapserv"
+ },
+ {
+  "name": "DIVERS_CESBIO_SUD_OUEST",
+  "url": "http://cyan.ups-tlse.fr:8080/geoserver/SudOuest/wms"
+ },
+ {
+  "name": "DIVERS_ADOUR_GARONNE",
+  "url": "http://adour-garonne.eaufrance.fr/servicesOGC"
+ },
+ {
+  "name": "ENTREPRISES_SOGEFI",
+  "url": "http://ws.sogefi-web.com/wms"
+ },
+ {
+  "name": "MONDE_NASA",
+  "url": "http://neowms.sci.gsfc.nasa.gov/wms/wms"
+ },
+ {
+  "name": "ESPAGNE_IGN_MINUTAS_CARTOGRAPHICAS",
+  "url": "http://www.ign.es/wms/minutas-cartograficas"
+ },
+ {
+  "name": "ESPAGNE_IGN_PRIMERA_EDICION_MTN50",
+  "url": "http://www.ign.es/wms/primera-edicion-mtn"
+ }
+]
