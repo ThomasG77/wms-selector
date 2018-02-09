@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal of this project is to ease addition of WMS layer from getCapabilities
+The goal of this project is to ease addition of WMS layer from getCapabilities in OpenLayers 3+
 This is an "early stage release" (too many things missing but working samples)
 
 ## How to
