@@ -16,7 +16,9 @@
     "ol": "^4.6.4"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
+    "parcel": "^1.12.4",
     "xml2js": "^0.4.19"
   }
 }
