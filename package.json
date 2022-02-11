@@ -12,7 +12,7 @@
   "author": "Thomas Gratier",
   "license": "MIT",
   "dependencies": {
-    "follow-redirects": "^1.2.6",
+    "follow-redirects": "^1.14.8",
     "ol": "^4.6.4"
   },
   "devDependencies": {
